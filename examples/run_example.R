@@ -11,8 +11,8 @@ source("R/01_prepare_inputs.R")
 source("R/02_model_functions.R")
 source("R/03_summarize_outputs.R")
 
-movements <- readr::read_csv("data/example/example_movement_data.csv", show_col_types = FALSE)
-zip_herd_sizes <- readr::read_csv("data/example/example_zip_herd_sizes.csv", show_col_types = FALSE)
+movements <- readr::read_csv("synthetic_us_network_dataset/synthetic_us_movement_data.csv", show_col_types = FALSE)
+zip_herd_sizes <- readr::read_csv("synthetic_us_network_dataset/synthetic_us_zip_herd_sizes.csv", show_col_types = FALSE)
 
 input <- prepare_calfnet_inputs(
   movements = movements,
