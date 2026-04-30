@@ -110,7 +110,7 @@ summarize_curve(result$curve, seed_k = 2, seed_IH = 2)
 
 If using this framework, please cite the associated manuscript when available:
 
-Sequeira SC, Arruda AG, Arevalo-Mayorga A, Locke SR, Habing GG, Pomeroy LW. CalfNet-SICR+E: a stochastic simulation model of *Salmonella Dublin* transmission throughout US calf movement networks.
+Sequeira SC, Arruda AG, Arevalo-Mayorga A, Locke SR, Habing GG, Pomeroy LW. CalfNet-SICR+E: a stochastic simulation model of *Salmonella* Dublin transmission throughout US calf movement networks.
 
 ## License
 
